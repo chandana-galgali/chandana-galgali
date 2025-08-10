@@ -111,9 +111,9 @@ alt="canva" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
-![Snake animation](https://github.com/chandana-galgali/chandana-galgali/blob/output/github-contribution-grid-snake.svg)
-
 <h2> 📈 &nbsp;My GitHub Stats</h2>
+
+![Snake animation](https://github.com/chandana-galgali/chandana-galgali/blob/output/github-contribution-grid-snake.svg)
 
 <picture>
   <source
