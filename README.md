@@ -111,6 +111,8 @@ alt="canva" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
+![Snake animation](https://github.com/chandana-galgali/chandana-galgali/blob/output/github-contribution-grid-snake.svg)
+
 <h2> 📈 &nbsp;My GitHub Stats</h2>
 
 <picture>
@@ -136,8 +138,6 @@ alt="canva" width="45" height="45"/>
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandana-galgali&layout=compact&langs_count=8&card_width=320" />
 </picture>
-
-![Snake animation](https://github.com/chandana-galgali/chandana-galgali/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thank%20you!&height=100&section=footer"/>
