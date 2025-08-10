@@ -69,6 +69,9 @@ You can click the Preview link to take a look at your changes.
   />
   <img src="https://github-readme-stats.vercel.app/api?username=chandana-galgali&show_icons=true" />
 </picture>
+<a href="https://github.com/chandana-galgali">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandana-galgali&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thank%20you!&height=100&section=footer"/>
