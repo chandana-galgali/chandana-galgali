@@ -24,10 +24,12 @@ You can click the Preview link to take a look at your changes.
 
 <h2> 👨🏻‍💻 &nbsp;About Me and My Interests</h2>
 
+<h3>
 👋 Hi, I’m @chandana-galgali
 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks...
 🌱 I’m currently pursuing a Bachelor's degree of Technology in Information Technology and Honors in Artificial Intelligence...
 📫 How to reach me: Contact info - 9870776977, Email ID - chandana.galgali@gmail.com  ...
+</h3>
 
 ---  
   
