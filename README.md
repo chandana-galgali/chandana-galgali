@@ -40,14 +40,11 @@ About Me
 🎓 Currently pursuing a Bachelor of Technology degree in Information Technology with an Honors in Artificial Intelligence
 💼 Internship experiences working across AI, Machine Learning, Data Science, Cyber Security and Web Development
 🎯 Current goal: Develop more real-world AI applications and contribute to open-source projects
-🌐 Fields of Interest:
-AI/ML/DL/NLP/CV Applications
-Data Engineering & Cloud Computing
-DevOps & Automation
+🌐 Fields of Interest: AI/ML/DL/NLP/CV Applications, Data Engineering & Cloud Computing, DevOps & Automation
 🎯 Personal Competence Goals for 2025:
-Create 25+ Projects
-Learn 5-10 New Technologies
-Master Deployment and Cloud Infrastructure
+1. Create 25+ Projects
+2. Learn 5-10 New Technologies
+3. Master Deployment and Cloud Infrastructure
 
 </pre>
 
