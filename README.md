@@ -89,18 +89,18 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 <h2> 📈 &nbsp;My GitHub Stats</h2>
 
-<a href="https://github.com/chandana-galgali/github-readme-stats">
+<a href="https://github.com/chandana-galgali">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chandana-galgali&show_icons=true" />
 </a>
-<a href="https://github.com/chandana-galgali/convoychat">
+<a href="https://github.com/chandana-galgali">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandana-galgali&layout=compact&langs_count=8" />
 </a>
 
-<a href="https://github.com/chandana-galgali/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chandana-galgali&repo=github-readme-stats" />
+<a href="https://github.com/chandana-galgali/Text-to-AR-VR-Visualizing-Numerical-Data">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chandana-galgali&repo=Text-to-AR-VR-Visualizing-Numerical-Data" />
 </a>
-<a href="https://github.com/chandana-galgali/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chandana-galgali&repo=convoychat" />
+<a href="https://github.com/chandana-galgali/Vision-Language-Model-CLIP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chandana-galgali&repo=Vision-Language-Model-CLIP" />
 </a>
 
 <p align="center">
