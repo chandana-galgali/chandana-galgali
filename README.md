@@ -42,8 +42,8 @@ About Me
 🎯 Current goal: Develop more real-world AI applications and contribute to open-source projects
 🌐 Fields of Interest: AI/ML/DL/NLP/CV Applications, Data Engineering & Cloud Computing, DevOps & Automation
 🎯 Personal Competence Goals for 2025:
-1. Create 25+ Projects
-2. Learn 5-10 New Technologies
+1. Create 5+ Projects
+2. Learn 5-7 New Technologies
 3. Master Deployment and Cloud Infrastructure
 
 </pre>
@@ -55,6 +55,7 @@ About Me
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
