@@ -24,12 +24,93 @@ You can click the Preview link to take a look at your changes.
 
 <h2> 👨🏻‍💻 &nbsp;About Me and My Interests</h2>
 
-<h3>
-👋 Hi, I’m @chandana-galgali
-👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks...
-🌱 I’m currently pursuing a Bachelor's degree of Technology in Information Technology and Honors in Artificial Intelligence...
-📫 How to reach me: Contact info - 9870776977, Email ID - chandana.galgali@gmail.com  ...
-</h3>
+<pre>
+Hi there 👋
+👂 My name is Chandana Ramesh Galgali
+
+👩 Pronouns: She/Her
+
+🔭 I’m currently working on projects involving AI, Machine Learning, and AR/VR
+
+🌱 I’m currently learning Generative AI, Deep Learning, and Advanced Data Science
+
+🤝 I’m looking to collaborate on AI-based solutions, Machine Learning models, and automation projects
+
+🤔 I’m looking for help with advanced deployment strategies, cloud infrastructure, and full-stack integration
+
+💬 Ask me about AI applications, Machine Learning algorithms, Data Science, and Python
+
+📫 How to reach me: 9870776977, chandana.galgali@gmail.com
+
+❤️ I love exploring innovative tech solutions, contributing to hackathons, and enhancing user experiences through tech
+
+⚡ Fun fact: I’ve completed 10 years of Bharatanatyam training and love diving into various technical and creative pursuits.
+
+About Me
+🌍 Located in Mumbai, India
+
+🎓 Currently pursuing a Bachelor’s degree in Information Technology with Honors in Artificial Intelligence
+
+💼 Student Intern, working across AI, Machine Learning, Data Science, and Web Development
+
+💼 Former SWE Intern at Barclays, Security Testing Intern at Keva, and Machine Learning Intern at Prodigy InfoTech
+
+🎯 Current goal: Develop more real-world AI applications, improve machine learning accuracy, and contribute to open-source projects
+
+Fields of Interest
+Artificial Intelligence
+
+Machine Learning
+
+Data Science
+
+AR/VR Development
+
+Web Development
+
+Cloud Computing
+
+Technical Background
+Python Developer (Machine Learning, AI, Data Science)
+
+Full Stack Development (React, Django, Node.js, Flask)
+
+Cloud Computing (AWS, Docker, Kubernetes)
+
+AI/ML Internships (Barclays, Prodigy InfoTech)
+
+Currently Learning
+Generative AI
+
+Deep Learning
+
+Deployment and Cloud Technologies (Docker, Kubernetes, React Native)
+
+Hobbies
+Bharatanatyam (Classical Dance)
+
+Reading (Fiction, Technology, AI papers)
+
+Exploring new tech innovations
+
+Hackathons and Competitions (Smart India Hackathon, Climate Hackathon)
+
+Fields of Interest:
+
+AI and ML for real-world problem-solving
+
+Web Development for interactive, user-centric applications
+
+Hackathons for building innovative solutions under pressure
+
+Personal Competence Goals for 2024:
+
+Create 25+ Projects
+
+Learn 5-10 New Technologies
+
+Master Deployment and Cloud Infrastructure
+</pre>
 
 ---  
   
