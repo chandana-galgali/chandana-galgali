@@ -29,39 +29,6 @@ You can click the Preview link to take a look at your changes.
 🌱 I’m currently pursuing a Bachelor's degree of Technology in Information Technology and Honors in Artificial Intelligence...
 📫 How to reach me: Contact info - 9870776977, Email ID - chandana.galgali@gmail.com  ...
 
-name: Chandana Galgali
-located_in: Mumbai, India
-current_job: Student
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
-  ]
-company: Soulber
-
-fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
-technical_background:
-  [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
-  
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
-
 ---  
   
 <h2> 🚀 &nbsp;Some Tools that I Have Used and Learned</h2>
@@ -94,13 +61,6 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 </a>
 <a href="https://github.com/chandana-galgali">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandana-galgali&layout=compact&langs_count=8" />
-</a>
-
-<a href="https://github.com/chandana-galgali/Text-to-AR-VR-Visualizing-Numerical-Data">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chandana-galgali&repo=Text-to-AR-VR-Visualizing-Numerical-Data" />
-</a>
-<a href="https://github.com/chandana-galgali/Vision-Language-Model-CLIP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chandana-galgali&repo=Vision-Language-Model-CLIP" />
 </a>
 
 <p align="center">
