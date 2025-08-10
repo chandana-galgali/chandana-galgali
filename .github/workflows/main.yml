@@ -1,0 +1,29 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"    # every 12 hours at minute 0 (UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write              # needed for pushing to the output branch
+
+jobs:
+  build:
+    name: Generate & Publish
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: chandana-galgali
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
