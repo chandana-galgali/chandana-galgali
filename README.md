@@ -60,14 +60,14 @@ You can click the Preview link to take a look at your changes.
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=chandana-galgali&show_icons=true&rank_icon=github&include_all_commits=true&line_height=20&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=chandana-galgali&show_icons=true&rank_icon=github&include_all_commits=true&line_height=23&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=chandana-galgali&show_icons=true&rank_icon=github&include_all_commits=true&line_height=20"
+    srcset="https://github-readme-stats.vercel.app/api?username=chandana-galgali&show_icons=true&rank_icon=github&include_all_commits=true&line_height=23"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=chandana-galgali&show_icons=true&rank_icon=github&include_all_commits=true&line_height=20" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chandana-galgali&show_icons=true&rank_icon=github&include_all_commits=true&line_height=23" />
 </picture>
 
 <picture>
