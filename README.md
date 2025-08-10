@@ -3,7 +3,7 @@ chandana-galgali/chandana-galgali is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey!%20I%27m%20Chandana.&height=300&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey!%20I%27m%20Chandana.&height=200&section=header"/>
 </p>
 <h1 align="center">
   Let's Connect and have a Chat!💬
@@ -91,7 +91,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 <h2> 🚀 &nbsp;My GitHub Stats</h2>
 <a href="https://github.com/chandana-galgali/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chandana-galgali" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chandana-galgali&show_icons=true" />
 </a>
 <a href="https://github.com/chandana-galgali/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandana-galgali&layout=compact&langs_count=8&card_width=320" />
