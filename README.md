@@ -3,7 +3,7 @@ chandana-galgali/chandana-galgali is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey!%20I%27m%20Chandana.&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey!%20I%27m%20Chandana.&height=300&section=header"/>
 </p>
 <h1 align="center">
   Let's Connect and have a Chat!💬
@@ -137,5 +137,5 @@ alt="canva" width="45" height="45"/>
 </picture>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thank%20you!&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thank%20you!&height=300&section=footer"/>
 </p>
