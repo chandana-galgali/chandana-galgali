@@ -24,7 +24,6 @@ You can click the Preview link to take a look at your changes.
 
 <h2> 👨🏻‍💻 &nbsp;About Me and My Interests</h2>
 
-<p>
 👋 Hi, I’m @chandana-galgali
 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks...
 🌱 I’m currently pursuing a Bachelor's degree of Technology in Information Technology and Honors in Artificial Intelligence...
@@ -62,7 +61,6 @@ technical_background:
 currently_learning: ["Docker, Kubernetes, and React Native"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
-</p>
 
 ---  
   
@@ -89,12 +87,20 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
-<h2> 🚀 &nbsp;My GitHub Stats</h2>
+<h2> 📈 &nbsp;My GitHub Stats</h2>
+
 <a href="https://github.com/chandana-galgali/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chandana-galgali&show_icons=true" />
 </a>
 <a href="https://github.com/chandana-galgali/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandana-galgali&layout=compact&langs_count=8" />
+</a>
+
+<a href="https://github.com/chandana-galgali/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chandana-galgali&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/chandana-galgali/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chandana-galgali&repo=convoychat" />
 </a>
 
 <p align="center">
