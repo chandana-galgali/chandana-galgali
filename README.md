@@ -59,10 +59,10 @@ You can click the Preview link to take a look at your changes.
 <h2> 📈 &nbsp;My GitHub Stats</h2>
 
 <a href="https://github.com/chandana-galgali">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chandana-galgali&show_icons=true" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=chandana-galgali&show_icons=true" />
 </a>
 <a href="https://github.com/chandana-galgali">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandana-galgali&layout=compact&langs_count=8" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandana-galgali&layout=compact&langs_count=8" />
 </a>
 
 <p align="center">
