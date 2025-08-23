@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<h2> 👩‍💻 &nbsp;About Me and My Interests</h2>
+<h2> 👩‍💻 &nbsp;About Me</h2>
 
 <pre>
 Hi there 👋
