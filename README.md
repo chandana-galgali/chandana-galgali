@@ -29,24 +29,23 @@ You can click the Preview link to take a look at your changes.
 Hi there 👋
 👂 My name is Chandana Ramesh Galgali
 👩 Pronouns: She/Her
-🔭 I’m currently working on a project involving Deep Learning, Vision Language Model, Computer Vision and Image Captioning
-🌱 I’m currently learning Generative AI, Retrieval Augmented Generation, Blockchain, Deployment and Cloud Technologies
+🔭 I’m currently working on a project involving DL, Vision Language Model, Computer Vision and Image Captioning
+🌱 I’m currently learning Gen AI, RAG, Blockchain, Deployment and Cloud Technologies
 🤝 I’m looking to collaborate on AI-based solutions and automation projects
-💬 Ask me about AI applications, Machine Learning algorithms, Data Science, and Python
+💬 Ask me about AI applications, ML algorithms, Data Science, and Python
 📫 How to reach me: 9870776977, chandana.galgali@gmail.com
 ❤️ I love exploring innovative tech solutions, contributing to hackathons, and enhancing user experiences through tech
 
 About Me
 🌍 Located in Mumbai, India
-🎓 Currently pursuing a Bachelor of Technology degree in Information Technology with an Honors in Artificial Intelligence
-💼 Internship experiences working across AI, Machine Learning, Data Science, Cyber Security and Web Development
+🎓 Currently pursuing a Bachelor of Technology degree in Information Technology with an Honors in AI
+💼 Internship experiences working across AI, ML, Data Science, Cyber Sec and Web Dev
 🎯 Current goal: Develop more real-world AI applications and contribute to open-source projects
 🌐 Fields of Interest: AI/ML/DL/NLP/CV Applications, Data Engineering & Cloud Computing, DevOps & Automation
 🎯 Personal Competence Goals for 2025:
 1. Create 5+ Projects
 2. Learn 5-7 New Technologies
 3. Master Deployment and Cloud Infrastructure
-
 </pre>
 
 ---  
@@ -117,9 +116,7 @@ alt="canva" width="45" height="45"/>
 </p>
 
 <h2> 📈 &nbsp;My GitHub Stats</h2>
-
 ![Snake animation](https://github.com/chandana-galgali/chandana-galgali/blob/output/github-contribution-grid-snake.svg)
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=chandana-galgali&show_icons=true&rank_icon=github&include_all_commits=true&line_height=24&theme=dark"
@@ -131,7 +128,6 @@ alt="canva" width="45" height="45"/>
   />
   <img src="https://github-readme-stats.vercel.app/api?username=chandana-galgali&show_icons=true&rank_icon=github&include_all_commits=true&line_height=24" />
 </picture>
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=chandana-galgali&layout=compact&langs_count=8&card_width=320&theme=dark"
