@@ -127,14 +127,14 @@ alt="canva" width="45" height="45"/>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=chandana-galgali&layout=compact&langs_count=8&card_width=350&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=chandana-galgali&layout=compact&langs_count=8&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=chandana-galgali&layout=compact&langs_count=8&card_width=350"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=chandana-galgali&layout=compact&langs_count=8"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandana-galgali&layout=compact&langs_count=8&card_width=350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandana-galgali&layout=compact&langs_count=8" />
 </picture>
 
 <p align="center">
