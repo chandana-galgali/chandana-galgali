@@ -112,6 +112,7 @@ alt="canva" width="45" height="45"/>
 <h2> 📈 &nbsp;My GitHub Stats</h2>
 
 ![Snake animation](https://github.com/chandana-galgali/chandana-galgali/blob/output/github-contribution-grid-snake.svg)
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=chandana-galgali&show_icons=true&rank_icon=github&include_all_commits=true&line_height=24&theme=dark"
@@ -123,6 +124,7 @@ alt="canva" width="45" height="45"/>
   />
   <img src="https://github-readme-stats.vercel.app/api?username=chandana-galgali&show_icons=true&rank_icon=github&include_all_commits=true&line_height=24" />
 </picture>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=chandana-galgali&layout=compact&langs_count=8&card_width=320&theme=dark"
