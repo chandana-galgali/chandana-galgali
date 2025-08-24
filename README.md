@@ -30,7 +30,7 @@ Hi there 👋
 👂 My name is Chandana Ramesh Galgali
 👩 Pronouns: She/Her
 🌍 Located in Mumbai, India
-🎓 Currently pursuing a B.Tech degree in IT with an Honors in AI (LY as of 2025)
+🎓 Currently pursuing a B.Tech degree in IT with an Honors in AI (LY as of 2025) in KJSCE
 💼 Internship experiences working across AI, ML, Data Science, Cyber Sec and Web Dev
 🔭 I’m working on a project involving DL, Vision Language Model, Computer Vision and Image Captioning for my FYP
 🎯 Current goal: Develop more real-world AI applications and contribute to open-source projects
