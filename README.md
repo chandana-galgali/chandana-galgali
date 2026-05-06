@@ -66,33 +66,9 @@ alt="arduino" width="45" height="45"/><img src="https://cdn.jsdelivr.net/gh/devi
 alt="canva" width="45" height="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
-<h2> 📈 &nbsp;My GitHub Stats</h2>
+<h2> 📈 &nbsp;My GitHub Contributions</h2>
 
 ![Snake animation](https://github.com/chandana-galgali/chandana-galgali/blob/output/github-contribution-grid-snake.svg)
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=chandana-galgali&show_icons=true&rank_icon=github&include_all_commits=true&line_height=24&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=chandana-galgali&show_icons=true&rank_icon=github&include_all_commits=true&line_height=24"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=chandana-galgali&show_icons=true&rank_icon=github&include_all_commits=true&line_height=24" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=chandana-galgali&layout=compact&langs_count=8&theme=dark&card_width=360"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=chandana-galgali&layout=compact&langs_count=8&card_width=360"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandana-galgali&layout=compact&langs_count=8&card_width=360" />
-</picture>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thank%20you!&height=300&section=footer"/>
