@@ -92,6 +92,7 @@ Hi there 👋
 </p>
 
 <h2> 📈 &nbsp;My GitHub Contributions</h2>
+
 ![Snake animation](https://github.com/chandana-galgali/chandana-galgali/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
