@@ -77,9 +77,13 @@ Hi there 👋
   </tr>
 </table>
 
+---
+
 <h2> 📈 &nbsp;My GitHub Contributions</h2>
 
 ![Snake animation](https://github.com/chandana-galgali/chandana-galgali/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thank%20you!&height=300&section=footer"/>
