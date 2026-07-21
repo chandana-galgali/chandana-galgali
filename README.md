@@ -37,7 +37,7 @@ Hi there 👋
 🌐 Fields of Interest: Anything interesting related to Tech
 🤝 I’m looking to collaborate on AI-based solutions and automation projects
 💬 Ask me about AI applications, ML algorithms, Data Science, and Python
-📫 How to reach me: 9870776977, chandana.galgali@gmail.com
+📫 How to reach me: chandana.galgali@gmail.com
 ❤️ I love exploring innovative tech solutions, contributing to hackathons, and enhancing user experiences through tech
 </pre>
 
