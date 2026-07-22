@@ -97,8 +97,9 @@ Hi there 👋 I just genuinely love engineering and building cool things! 🚀
 <h2> 📊 &nbsp;My GitHub Profile Stats</h2>
 
 ![Stats](./profile/stats.svg)
+<!---
 ![Top Languages](./profile/top-langs.svg)
-
+--->
 ---
 
 <h2> 📈 &nbsp;My GitHub Contributions</h2>
