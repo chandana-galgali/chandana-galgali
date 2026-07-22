@@ -98,7 +98,6 @@ Hi there 👋 I just genuinely love engineering and building cool things! 🚀
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 
 ---
 
