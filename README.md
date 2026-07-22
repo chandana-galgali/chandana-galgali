@@ -94,6 +94,22 @@ Hi there 👋 I just genuinely love engineering and building cool things! 🚀
 
 ---
 
+<h2> 📈 &nbsp;My GitHub Stats</h2>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=chandana-galgali&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=chandana-galgali&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=chandana-galgali&show_icons=true" />
+</picture>
+
+---
+
 <h2> 📈 &nbsp;My GitHub Contributions</h2>
 
 ![Snake animation](https://github.com/chandana-galgali/chandana-galgali/blob/output/github-contribution-grid-snake.svg)
