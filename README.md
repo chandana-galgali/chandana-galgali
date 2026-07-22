@@ -50,7 +50,7 @@ Hi there 👋 I just genuinely love engineering and building cool things! 🚀
 
 <br>
 
-💬 **You can ask me about**: AI applications, Compiler Design, System Architecture, F1 constructor strategies or even One Piece lore lol!<br>
+💬 **You can talk to me about**: AI applications, Compiler Design, System Architecture, F1 constructor strategies or even One Piece lore lol!<br>
 📫 **How to reach me**: chandana.galgali@gmail.com
 
 --- 
