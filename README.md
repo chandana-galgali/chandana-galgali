@@ -94,7 +94,7 @@ Hi there 👋 I just genuinely love engineering and building cool things! 🚀
 
 ---
 
-<h2> 📈 &nbsp;My GitHub Stats</h2>
+<h2> 📊 &nbsp;My GitHub Stats</h2>
 
 <picture>
   <source
