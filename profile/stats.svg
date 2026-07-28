@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Chandana Galgali's GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 35, Total Commits  (last year) : 238, Total PRs: 3, Total Issues: 0, Contributed to (last year): 1</desc>
+        <title id="titleId">Chandana Galgali&#39;s GitHub Stats, Rank: B-</title>
+        <desc id="descId">Total Stars Earned: 35, Total Commits  (last year) : 240, Total PRs: 3, Total Issues: 0, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 185.4126005101085;
+        stroke-dashoffset: 185.29286583560756;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Chandana Galgali's GitHub Stats</text>
+      >Chandana Galgali&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >238</text>
+      >240</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
