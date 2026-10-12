@@ -9,18 +9,11 @@ You can click the Preview link to take a look at your changes.
   Let's Connect and have a Chat!💬
 </h1>
 <p align="center">
-<a href="https://chandana-galgali.github.io/">
-  <img height="50" src="https://avatars.githubusercontent.com/u/129645923?s=400&amp;u=38918ceb0bf61ecad0e0c4fbba45760cd43850d7&amp;v=4"/>
-</a>
-<a href="https://www.linkedin.com/in/chandana-galgali/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<a href="https://www.instagram.com/chandana._.04/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-<a href="mailto:chandana.galgali@gmail.com">
-  <img height="50" src="https://img.icons8.com/plasticine/100/gmail-new.png"/>
-</a>
+<a href="https://chandana-galgali.github.io/"><img height="50" src="https://avatars.githubusercontent.com/u/129645923?s=400&amp;u=38918ceb0bf61ecad0e0c4fbba45760cd43850d7&amp;v=4"/></a>
+<a href="https://www.linkedin.com/in/chandana-galgali/"><img height="50" src="https://cdn-icons-png.flaticon.com/512/2496/2496097.png"/></a>
+<a href="https://github.com/chandana-galgali"><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJUDEVuwSoKzi9o3WuLoy2Gt8Y1rtoAmAco0cCnXTeNw&s=10"/></a>
+<a href="https://www.instagram.com/chandana._.04/"><img height="50" src="https://unblast.com/wp-content/uploads/2025/07/instagram-logo-colored.jpg"/></a>
+<a href="mailto:chandana.galgali@gmail.com"><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2coMMlNA6P6s2sait4tH-ixxUuEodtjwWrGZWiFGG9g&s=10"/></a>
 </p>
 
 ---
