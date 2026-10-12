@@ -28,29 +28,30 @@ Hi there 👋 I just genuinely love engineering and building cool things! 🚀
 
 * 👂 **My name is**: Chandana Ramesh Galgali
 * 👩 **Pronouns**: She/Her | 🌍 **Located in**: Mumbai, India
-* 🎓 **Education**: B.Tech in IT with Honors in AI at KJSCE
+* 🎓 **Education**: B.Tech in IT with Honors in AI from KJSCE (2026)
 * 🎯 **Philosophy**: I believe the best developers are versatile. I love mixing domains that traditionally shouldn't mix!
 
-💼 **My Versatile Experience**:
+💼 **My Versatile Work Experiences**:
 * **Research Intern @ IIT Bombay**: Exploring JIT compilers and dynamic language optimizations
-* **SWE Intern @ Barclays**: Built real-time SLA monitoring pipelines and predictive AI PoCs
-* **Cyber Security Intern @ Keva**: Conducted vulnerability analysis and penetration testing
-* **Java Development Intern @ Keva**: Backend development with Spring Boot and Maven
+* **SDE Intern @ Barclays**: Built real-time SLA monitoring pipelines and predictive AI PoCs
+* **Web App Security Intern @ Keva**: Conducted vulnerability analysis and penetration testing
+* **Java Developer Intern @ Keva**: Java backend development with Maven
 * **Machine Learning Intern @ Prodigy InfoTech**: Built end-to-end predictive and CV models
-* **Web Dev Intern @ KJSCE**: Developed interactive virtual labs for SY students
+* **Web Development Intern @ KJSCE**: Developed interactive virtual lab for students
 
 🌟 **Leadership & Open Source**: 
 * **Tech Contributor @ GirlScript Summer of Code**: Contributed to open-source tech initiatives
 * **General Secretary @ Team Emfinity**: Led a 30-member team and managed tech events
 
 🔭 **My Featured Repositories**:
-* Automated Image Captioning using Vision Language Models (VGG-16, GRU) 🖼️
-* Text-to-AR/VR (Transforming text to 3D immersive data visualizations) 🥽
-* AI-Powered Hyperlocal Multi-pollutant Mapping (Climate Hackathon 2024, Winner) 🏆
+* AI-Powered Multi-Pollutant Mapping for Hyperlocal Air Quality Monitoring (Climate Hackathon 2024, Winner + 1.5 Lakh Grant to implement solution on university campus) 🏆
+* Voice-Enabled Geospatial UI (ISRO Bharatiya Antariksh Hackathon 2024) 🗺️
+* Text-to-AR/VR : Generating AR/VR Visualization from Textual Description of Numerical Data 🥽
+* Automated Caption Generation using Encoder-Decoder Model for Targetted Objects (VGG-16 & GRU) 🖼️
 
 <br>
 
-💬 **You can talk to me about**: AI applications, Compiler Design, System Architecture, F1 constructor strategies or even One Piece lore lol!<br>
+💬 **You can talk to me about**: AI applications, Compiler Optimizations, System Architecture, F1 constructor strategies or even One Piece lore lol!<br>
 📫 **How to reach me**: chandana.galgali@gmail.com
 
 --- 
