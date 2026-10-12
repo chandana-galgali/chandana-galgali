@@ -9,6 +9,9 @@ You can click the Preview link to take a look at your changes.
   Let's Connect and have a Chat!💬
 </h1>
 <p align="center">
+<a href="https://chandana-galgali.github.io/">
+  <img height="50" src="https://avatars.githubusercontent.com/u/129645923?s=400&amp;u=38918ceb0bf61ecad0e0c4fbba45760cd43850d7&amp;v=4"/>
+</a>
 <a href="https://www.linkedin.com/in/chandana-galgali/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
@@ -35,8 +38,8 @@ Hi there 👋 I just genuinely love engineering and building cool things! 🚀
 * **Research Intern @ IIT Bombay**: Exploring JIT compilers and dynamic language optimizations
 * **SDE Intern @ Barclays**: Built real-time SLA monitoring pipelines and predictive AI PoCs
 * **Web App Security Intern @ Keva**: Conducted vulnerability analysis and penetration testing
-* **Java Developer Intern @ Keva**: Java backend development with Maven
 * **Machine Learning Intern @ Prodigy InfoTech**: Built end-to-end predictive and CV models
+* **Java Developer Intern @ Keva**: Java backend development with Maven
 * **Web Development Intern @ KJSCE**: Developed interactive virtual lab for students
 
 🌟 **Leadership & Open Source**: 
