@@ -43,7 +43,7 @@ Hi there 👋 I just genuinely love engineering and building cool things! 🚀
 * AI-Powered Multi-Pollutant Mapping for Hyperlocal Air Quality Monitoring (Climate Hackathon 2024, Winner + 1.5 Lakh Grant to implement solution on university campus) 🏆
 * Voice-Enabled Geospatial UI (ISRO Bharatiya Antariksh Hackathon 2024) 🗺️
 * Text-to-AR/VR : Generating AR/VR Visualization from Textual Description of Numerical Data 🥽
-* Automated Caption Generation using Encoder-Decoder Model for Targetted Objects (VGG-16 & GRU) 🖼️
+* Automated Caption Generation using Encoder-Decoder Model for Targetted Objects (Jewellery Images) 🖼️
 
 <br>
 
