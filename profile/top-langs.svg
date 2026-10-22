@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="202.75"
+          width="202.65"
           height="8"
           fill="#DA5B0B"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="202.75"
+          x="202.65"
           y="0"
-          width="21.63"
+          width="21.62"
           height="8"
           fill="#4F5D95"
         />
@@ -156,9 +156,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="224.38"
+          x="224.27"
           y="0"
-          width="16"
+          width="15.99"
           height="8"
           fill="#3572A5"
         />
@@ -166,9 +166,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="240.38"
+          x="240.26000000000002"
           y="0"
-          width="16.15"
+          width="16.259999999999998"
           height="8"
           fill="#e34c26"
         />
@@ -176,9 +176,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="246.53"
+          x="246.52"
           y="0"
-          width="12.3"
+          width="12.29"
           height="8"
           fill="#f1e05a"
         />
@@ -186,7 +186,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.83"
+          x="248.81"
           y="0"
           width="11.18"
           height="8"
@@ -199,7 +199,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 81.10%
+        Jupyter Notebook 81.06%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -220,7 +220,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 2.46%
+        HTML 2.50%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
