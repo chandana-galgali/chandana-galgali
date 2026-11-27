@@ -31,19 +31,43 @@ Hi there 👋 I just genuinely love engineering and building cool things! 🚀
 * **Research Intern @ IIT Bombay**: Exploring JIT compilers and dynamic language optimizations
 * **SDE Intern @ Barclays**: Built real-time SLA monitoring pipelines and predictive AI PoCs
 * **Web App Security Intern @ Keva**: Conducted vulnerability analysis and penetration testing
-* **Machine Learning Intern @ Prodigy InfoTech**: Built end-to-end predictive and CV models
-* **Java Developer Intern @ Keva**: Java backend development with Maven
-* **Web Development Intern @ KJSCE**: Developed interactive virtual lab for students
+* **Machine Learning Intern @ Prodigy InfoTech**: Built end-to-end predictive and CV models · 🔗 [Results](https://chandana-galgali.github.io/applied-ml-projects/)
+* **Java Developer Intern @ Keva**: Java backend development with Maven · 🔗 [Live Demo](https://chandana-galgali.github.io/formula-substitution-engine/)
+* **Web Development Intern @ KJSCE**: Developed interactive virtual lab for students · 🔗 [Live Demo](https://chandana-galgali.github.io/Virtual-DSA-Laboratory)
 
 🌟 **Leadership & Open Source**: 
 * **Tech Contributor @ GirlScript Summer of Code**: Contributed to open-source tech initiatives
 * **General Secretary @ Team Emfinity**: Led a 30-member team and managed tech events
 
 🔭 **My Featured Repositories**:
-* AI-Powered Multi-Pollutant Mapping for Hyperlocal Air Quality Monitoring (Climate Hackathon 2024, Winner + 1.5 Lakh Grant to implement solution on university campus) 🏆
-* Voice-Enabled Geospatial UI (ISRO Bharatiya Antariksh Hackathon 2024) 🗺️
-* Text-to-AR/VR : Generating AR/VR Visualization from Textual Description of Numerical Data 🥽
-* Automated Caption Generation using Encoder-Decoder Model for Targetted Objects (Jewellery Images) 🖼️
+* [AI-Powered Multi-Pollutant Mapping for Hyperlocal Air Quality Monitoring](https://github.com/chandana-galgali/AI-Powered-Multi-Pollutant-Mapping-for-Hyperlocal-Air-Quality-Monitoring) (Climate Hackathon 2024, Winner + 1.5 Lakh Grant to implement solution on university campus) 🏆<br>Downscales Sentinel-5P data for 6 pollutants from ~1 km to 10 m with a hybrid regression + CNN, validated against NASA airborne NO₂ maps · [Live](https://hyperlocal-air-quality.onrender.com)
+* [Text-to-AR/VR : Generating AR/VR Visualization from Textual Description of Numerical Data](https://github.com/chandana-galgali/Text-to-AR-VR-Visualizing-Numerical-Data) 🥽<br>LLM + custom RAG pipeline that turns text descriptions of numbers into interactive AR/VR charts in Unity, 88.89% chart-selection accuracy
+* [Automated Caption Generation using Encoder-Decoder Model for Targetted Objects (Jewellery Images)](https://github.com/chandana-galgali/Automated-Caption-Generation-using-Encoder-Decoder-Model-for-Jewellery-Images) 🖼️<br>VGG-16 + attention GRU, 98.64% classification accuracy and CIDEr-D 0.876 on held-out data, runs in the browser · [Live](https://chandana-galgali.github.io/Automated-Caption-Generation-using-Encoder-Decoder-Model-for-Jewellery-Images/)
+* [Voice-Enabled Geospatial UI](https://github.com/chandana-galgali/Voice-Enabled-Geospatial-UI) (ISRO Bharatiya Antariksh Hackathon 2024) 🗺️<br>On-device Whisper speech recognition with a fault-tolerant intent parser, 91.7% intent accuracy · [Live](https://voice-enabled-geospatial-ui.netlify.app/)
+
+🧰 **More Things I've Built**:
+
+**AI & ML**
+* [ConsultLens](https://github.com/chandana-galgali/ConsultLens) (Health-a-thon 2026): multilingual workspace that turns scattered medical records into verified, source-linked patient journeys, with OCR and human-in-the-loop review 🩺 · [Live](https://consultlens.vercel.app/)
+* [Applied ML Projects](https://github.com/chandana-galgali/applied-ml-projects): 5 end-to-end ML projects with held-out metrics (regression R² 0.930, 89.0% food detection, 83.2% gesture accuracy on unseen people) 📈 · [Live](https://chandana-galgali.github.io/applied-ml-projects/)
+* [CineSentiment](https://github.com/chandana-galgali/Sentiment-Analysis-of-IMDb-Movie-Reviews-using-LSTM): LSTM sentiment classifier, 85.28% test accuracy, Streamlit app 🎬 · [Live](https://cine-sentiment-imdb.streamlit.app)
+
+**Full-Stack & Web**
+* [Voluntr](https://github.com/chandana-galgali/Voluntr-Django-Volunteering-Platform): Django volunteering platform with maps, QR check-in, hour tracking, certificates and organizer dashboards 🌱 · [Live](https://voluntr.onrender.com)
+* [Cinna Fragrances](https://github.com/chandana-galgali/Cinna-Fragrances-Ecommerce): PERN-stack fragrance store with scent finder, transactional checkout and admin analytics 🛍️ · [Live](https://cinna-fragrances.onrender.com)
+* [Virtual DSA Laboratory](https://github.com/chandana-galgali/Virtual-DSA-Laboratory): React lab simulating 18 DSA experiments step by step, used by 350+ students 🧪 · [Live](https://chandana-galgali.github.io/Virtual-DSA-Laboratory/)
+* [Portfolio](https://github.com/chandana-galgali/chandana-galgali.github.io): my personal portfolio website 💻 · [Live](https://chandana-galgali.github.io/)
+
+**Dev Tools & Packages**
+* [react-ambient-light-adaptive-theme](https://github.com/chandana-galgali/react-ambient-light-adaptive-theme): npm package that themes your React app from real ambient light 📦 · [Live](https://chandana-galgali.github.io/react-ambient-light-adaptive-theme/)
+* [Formula Substitution Engine](https://github.com/chandana-galgali/formula-substitution-engine): Java + Spring Boot HashMap rule engine, up to ~880× faster than a linear scan ⚗️ · [Live](https://chandana-galgali.github.io/formula-substitution-engine/)
+* [AST-Query](https://github.com/chandana-galgali/AST-Query): zero-dependency CLI to search Python code by structure, not text 🔍 · [Live](https://chandana-galgali.github.io/AST-Query/)
+* [PixelBatch](https://github.com/chandana-galgali/Batch-Image-Optimizer): private batch image optimizer, in the browser or as a Python CLI 🖼️ · [Live](https://chandana-galgali.github.io/Batch-Image-Optimizer/)
+* [Gmail Bulk Trash Purger](https://github.com/chandana-galgali/gmail-bulk-trash-purger): Apps Script that empties huge Gmail Trash folders without timeouts 🗑️ · [Live](https://chandana-galgali.github.io/gmail-bulk-trash-purger/)
+
+**Data & Academics**
+* [AuverGrid Workload Analysis](https://github.com/chandana-galgali/Analysis-of-the-GWA-T-4-AuverGrid-Workload): characterisation of 404k real grid-computing jobs 📊 · [Live](https://chandana-galgali.github.io/Analysis-of-the-GWA-T-4-AuverGrid-Workload/)
+* [KJSCE IT Reference Material](https://github.com/chandana-galgali/KJSCE-IT-Reference-Material): notes, lab code and write-ups from my B.Tech in IT (2022-2026) 📚
 
 <br>
 
