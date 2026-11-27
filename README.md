@@ -28,7 +28,7 @@ Hi there 👋 I just genuinely love engineering and building cool things! 🚀
 * 🎯 **Philosophy**: I believe the best developers are versatile. I love mixing domains that traditionally shouldn't mix!
 
 💼 **My Versatile Work Experiences**:
-* **Compiler Optimization Research Intern @ IIT Bombay**: Custom static analysis suite and Ahead-of-Time hints for JavaScript JIT optimizations, up to 45% execution speedup
+* **Compiler Optimization Research Intern @ IIT Bombay**: Custom static analysis suite and Ahead-of-Time hints for JavaScript JIT optimizations, with simulated AOT optimizations showing up to 45% execution speedup
 * **SDE Intern @ Barclays**: Real-time SLA monitoring tool (validation 45 min → under 2 min), predictive incident PoC and Ansible automation
 * **Web App Security Intern @ Keva**: Security audits of 3 full-stack apps with SonarQube and Burp Suite, remediating SQLi, CORS and CSRF vulnerabilities
 * **Machine Learning Intern @ Prodigy InfoTech**: Built 5 end-to-end ML projects, from regression and clustering to SVM image classifiers · 🔗 [Results](https://chandana-galgali.github.io/applied-ml-projects/)
