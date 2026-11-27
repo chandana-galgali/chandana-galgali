@@ -24,20 +24,20 @@ Hi there 👋 I just genuinely love engineering and building cool things! 🚀
 
 * 👂 **My name is**: Chandana Ramesh Galgali
 * 👩 **Pronouns**: She/Her | 🌍 **Located in**: Mumbai, India
-* 🎓 **Education**: B.Tech in IT with Honors in AI from KJSCE (2026)
+* 🎓 **Education**: B.Tech in IT with Honors in AI from KJSCE (2022-2026) · 9.67 CGPA · Department Rank 1 & Gold Medalist 🥇
 * 🎯 **Philosophy**: I believe the best developers are versatile. I love mixing domains that traditionally shouldn't mix!
 
 💼 **My Versatile Work Experiences**:
-* **Research Intern @ IIT Bombay**: Exploring JIT compilers and dynamic language optimizations
-* **SDE Intern @ Barclays**: Built real-time SLA monitoring pipelines and predictive AI PoCs
-* **Web App Security Intern @ Keva**: Conducted vulnerability analysis and penetration testing
-* **Machine Learning Intern @ Prodigy InfoTech**: Built end-to-end predictive and CV models · 🔗 [Results](https://chandana-galgali.github.io/applied-ml-projects/)
-* **Java Developer Intern @ Keva**: Java backend development with Maven · 🔗 [Live Demo](https://chandana-galgali.github.io/formula-substitution-engine/)
-* **Web Development Intern @ KJSCE**: Developed interactive virtual lab for students · 🔗 [Live Demo](https://chandana-galgali.github.io/Virtual-DSA-Laboratory)
+* **Compiler Optimization Research Intern @ IIT Bombay**: Static analysis framework and Ahead-of-Time hints for JavaScript JIT optimizations, up to 45% execution speedup
+* **SDE Intern @ Barclays**: Real-time SLA monitoring tool (validation 45 min → under 2 min), predictive incident PoC and Ansible automation
+* **Web App Security Intern @ Keva**: Security audits of 3 full-stack apps with SonarQube and Burp Suite, remediating SQLi, CORS and CSRF vulnerabilities
+* **Machine Learning Intern @ Prodigy InfoTech**: Built 5 end-to-end ML projects, from regression and clustering to SVM image classifiers · 🔗 [Results](https://chandana-galgali.github.io/applied-ml-projects/)
+* **Java Developer Intern @ Keva**: HashMap-based two-way ingredient substitution engine in Java (A + B → C · C → A + B) · 🔗 [Live Demo](https://chandana-galgali.github.io/formula-substitution-engine/)
+* **Web Development Intern @ KJSCE**: React.js virtual lab with 18 step-by-step DSA simulations, used by 350+ students · 🔗 [Live Demo](https://chandana-galgali.github.io/Virtual-DSA-Laboratory)
 
 🌟 **Leadership & Open Source**: 
 * **Tech Contributor @ GirlScript Summer of Code**: Contributed to open-source tech initiatives
-* **General Secretary @ Team Emfinity**: Led a 30-member team and managed tech events
+* **General Secretary @ Team Emfinity**: Led a 30-member council, running tech events with 500+ footfall
 
 🔭 **My Featured Repositories**:
 * [AI-Powered Multi-Pollutant Mapping for Hyperlocal Air Quality Monitoring](https://github.com/chandana-galgali/AI-Powered-Multi-Pollutant-Mapping-for-Hyperlocal-Air-Quality-Monitoring) (Climate Hackathon 2024, Winner + 1.5 Lakh Grant to implement solution on university campus) 🏆<br>Downscales Sentinel-5P data for 6 pollutants from ~1 km to 10 m with a hybrid regression + CNN, validated against NASA airborne NO₂ maps · [Live](https://hyperlocal-air-quality.onrender.com)
