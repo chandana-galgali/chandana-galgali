@@ -170,17 +170,35 @@ Hi there 👋 I just genuinely love engineering and building cool things! 🚀
 
 ---
 
-<h2> 📊 &nbsp;My GitHub Profile Stats</h2>
+<h2> 📊 &nbsp;GitHub at a Glance</h2>
 
-![Stats](./profile/stats.svg)
-<!---
-![Top Languages](./profile/top-langs.svg)
---->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <img src="./profile/stats-light.svg" alt="Chandana's GitHub stats" height="180">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <img src="./profile/top-langs-light.svg" alt="Chandana's most used languages" height="180">
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chandana-galgali?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fchandana-galgali&query=%24.public_repos&label=public%20repos&style=for-the-badge&color=5eead4&labelColor=0a0e14&logo=github&logoColor=white" alt="Public repositories"></a>
+  <a href="https://www.npmjs.com/package/react-ambient-light-adaptive-theme"><img src="https://img.shields.io/npm/dt/react-ambient-light-adaptive-theme?style=for-the-badge&label=npm%20downloads&color=a78bfa&labelColor=0a0e14&logo=npm&logoColor=white" alt="npm downloads"></a>
+  <a href="https://chandana-galgali.github.io/"><img src="https://img.shields.io/badge/Portfolio-Live-5eead4?style=for-the-badge&labelColor=0a0e14&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+</p>
+
 ---
 
-<h2> 📈 &nbsp;My GitHub Contributions</h2>
+<h2> 🐍 &nbsp;My GitHub Contributions</h2>
 
-![Snake animation](https://github.com/chandana-galgali/chandana-galgali/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandana-galgali/chandana-galgali/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/chandana-galgali/chandana-galgali/output/snake-light.svg" alt="Snake eating Chandana's GitHub contribution grid">
+  </picture>
+</p>
 
 ---
 

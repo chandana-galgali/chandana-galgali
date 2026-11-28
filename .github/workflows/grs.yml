@@ -15,20 +15,38 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Generate stats card
+      # Colours match the portfolio (chandana-galgali.github.io): a dark and a light version of each card,
+      # so the README follows the visitor's GitHub theme.
+      - name: Generate stats card (dark)
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
-          path: profile/stats.svg
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_rank=true&border_radius=10&card_width=420&custom_title=GitHub%20Stats&bg_color=0a0e14&title_color=5eead4&text_color=d6e2f0&icon_color=a78bfa&ring_color=5eead4&border_color=1f2b3b
+          path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages card
+      - name: Generate stats card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_rank=true&border_radius=10&card_width=420&custom_title=GitHub%20Stats&bg_color=ffffff&title_color=0d9488&text_color=14202e&icon_color=6d28d9&ring_color=0d9488&border_color=dce3ec
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card (dark)
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
-          path: profile/top-langs.svg
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&border_radius=10&card_width=360&custom_title=Most%20Used%20Languages&bg_color=0a0e14&title_color=5eead4&text_color=d6e2f0&icon_color=a78bfa&ring_color=5eead4&border_color=1f2b3b
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&border_radius=10&card_width=360&custom_title=Most%20Used%20Languages&bg_color=ffffff&title_color=0d9488&text_color=14202e&icon_color=6d28d9&ring_color=0d9488&border_color=dce3ec
+          path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
