@@ -66,8 +66,8 @@ Hi there 👋 I just genuinely love engineering and building cool things! 🚀
 <a href="https://github.com/chandana-galgali/Text-to-AR-VR-Visualizing-Numerical-Data"><img src="./profile/cards/text-to-ar-vr.png" width="100%" alt="🥽 Text-to-AR/VR preview"/></a>
 <h3>🥽 Text-to-AR/VR</h3>
 <sub><b>Pre-Final Year Capstone Project</b></sub>
-<p>Turns text descriptions of numbers into interactive AR/VR charts in Unity via an LLM + custom RAG pipeline, with 88.89% accuracy.</p>
-<img src="https://img.shields.io/badge/Demo-Coming_Soon-7d8ea3?style=for-the-badge&labelColor=0a0e14" alt="Demo coming soon"> <a href="https://github.com/chandana-galgali/Text-to-AR-VR-Visualizing-Numerical-Data"><img src="https://img.shields.io/badge/Source-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e14" alt="Source code"></a>
+<p>Turns text descriptions of numbers into interactive AR/VR charts via an LLM + custom RAG pipeline, with 90.7% chart-type accuracy on 129 held-out government tables.</p>
+<a href="https://text-to-ar-vr.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-5eead4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0e14" alt="Live demo"> <a href="https://github.com/chandana-galgali/Text-to-AR-VR-Visualizing-Numerical-Data"><img src="https://img.shields.io/badge/Source-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e14" alt="Source code"></a>
 <br><br>
 </td>
 </tr>
