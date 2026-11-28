@@ -3,17 +3,24 @@ chandana-galgali/chandana-galgali is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey!%20I%27m%20Chandana%20:)&height=300&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e14,50:0d9488,100:a78bfa&height=260&section=header&text=Hey!%20I%27m%20Chandana%20:)&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38" alt="Hey! I'm Chandana :)"/>
+</p>
+<p align="center">
+  <a href="https://chandana-galgali.github.io/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=5EEAD4&center=true&vCenter=true&width=720&lines=Artificial+Intelligence+%C2%B7+Software+Development;System+Design+%C2%B7+Full-Stack+Development;Ex-Research+Intern+%40+IIT+Bombay+%C2%B7+Ex-SDE+Intern+%40+Barclays;Climate+Hackathon+2024+Winner+%C2%B7+INR+1.5+Lakh+Grant;Gold+Medalist+%C2%B7+Department+Rank+1+%40+KJSCE" alt="Artificial Intelligence · Software Development · System Design · Full-Stack Development · Ex-Research Intern @ IIT Bombay · Ex-SDE Intern @ Barclays · Climate Hackathon 2024 Winner + INR 1.5 Lakh · Gold Medalist - Department Rank 1 @ KJSCE"/></a>
 </p>
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
 <p align="center">
 <a href="https://chandana-galgali.github.io/"><img height="50" src="https://avatars.githubusercontent.com/u/129645923?s=400&amp;u=38918ceb0bf61ecad0e0c4fbba45760cd43850d7&amp;v=4"/></a>
-<a href="https://www.linkedin.com/in/chandana-galgali/"><img height="50" src="https://cdn-icons-png.flaticon.com/512/2496/2496097.png"/></a>
-<a href="https://github.com/chandana-galgali"><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJUDEVuwSoKzi9o3WuLoy2Gt8Y1rtoAmAco0cCnXTeNw&s=10"/></a>
-<a href="https://www.instagram.com/chandana._.04/"><img height="50" src="https://unblast.com/wp-content/uploads/2025/07/instagram-logo-colored.jpg"/></a>
-<a href="mailto:chandana.galgali@gmail.com"><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2coMMlNA6P6s2sait4tH-ixxUuEodtjwWrGZWiFGG9g&s=10"/></a>
+<a href="https://www.linkedin.com/in/chandana-galgali/"><img height="50" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+<a href="https://github.com/chandana-galgali"><img height="50" src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+<a href="https://www.instagram.com/chandana._.04/"><img height="50" src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
+<a href="mailto:chandana.galgali@gmail.com"><img height="50" src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%A5%87%20Gold%20Medal-Department%20Rank%201%20%C2%B7%209.67%20CGPA-5eead4?style=for-the-badge&labelColor=0a0e14" alt="Gold Medal, Department Rank 1, 9.67 CGPA">
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Climate%20Hackathon%202024%20Winner-Grant%20%E2%82%B91.5%20Lakh-a78bfa?style=for-the-badge&labelColor=0a0e14" alt="Climate Hackathon 2024, 1st of 150+ teams">
 </p>
 
 ---
@@ -27,7 +34,11 @@ Hi there 👋 I just genuinely love engineering and building cool things! 🚀
 * 🎓 **Education**: B.Tech in IT with Honors in AI from KJSCE (2022-2026) · 9.67 CGPA · Department Rank 1 & Gold Medalist 🥇
 * 🎯 **Philosophy**: I believe the best developers are versatile. I love mixing domains that traditionally shouldn't mix!
 
-💼 **My Versatile Work Experiences**:
+🌱 **Currently**:
+* 🩺 Building **[ConsultLens](https://github.com/chandana-galgali/ConsultLens)**, a multilingual healthcare intelligence workspace
+* 🎯 Open to full-time roles in AI, Systems and Software Engineering
+
+💼 **My Versatile Experiences**:
 * **Compiler Optimization Research Intern @ IIT Bombay**: Custom static analysis suite and Ahead-of-Time hints for JavaScript JIT optimizations, with simulated AOT optimizations showing up to 45% execution speedup
 * **SDE Intern @ Barclays**: Real-time SLA monitoring tool (validation 45 min → under 2 min), predictive incident PoC and Ansible automation
 * **Web App Security Intern @ Keva**: Security audits of 3 full-stack apps with SonarQube and Burp Suite, remediating SQLi, CORS and CSRF vulnerabilities
@@ -39,13 +50,49 @@ Hi there 👋 I just genuinely love engineering and building cool things! 🚀
 * **Tech Contributor @ GirlScript Summer of Code**: Contributed to open-source tech initiatives
 * **General Secretary @ Team Emfinity**: Led a 30-member council, running tech events with 500+ footfall
 
-🔭 **My Featured Repositories**:
-* [AI-Powered Multi-Pollutant Mapping for Hyperlocal Air Quality Monitoring](https://github.com/chandana-galgali/AI-Powered-Multi-Pollutant-Mapping-for-Hyperlocal-Air-Quality-Monitoring) (Climate Hackathon 2024, Winner + 1.5 Lakh Grant to implement solution on university campus) 🏆<br>Downscales Sentinel-5P data for 6 pollutants from ~1 km to 10 m with a hybrid regression + CNN, validated against NASA airborne NO₂ maps · [Live](https://hyperlocal-air-quality.onrender.com)
-* [Text-to-AR/VR : Generating AR/VR Visualization from Textual Description of Numerical Data](https://github.com/chandana-galgali/Text-to-AR-VR-Visualizing-Numerical-Data) 🥽<br>LLM + custom RAG pipeline that turns text descriptions of numbers into interactive AR/VR charts in Unity, 88.89% chart-selection accuracy
-* [Automated Caption Generation using Encoder-Decoder Model for Targetted Objects (Jewellery Images)](https://github.com/chandana-galgali/Automated-Caption-Generation-using-Encoder-Decoder-Model-for-Jewellery-Images) 🖼️<br>VGG-16 + attention GRU, 98.64% classification accuracy and CIDEr-D 0.876 on held-out data, runs in the browser · [Live](https://chandana-galgali.github.io/Automated-Caption-Generation-using-Encoder-Decoder-Model-for-Jewellery-Images/)
-* [Voice-Enabled Geospatial UI](https://github.com/chandana-galgali/Voice-Enabled-Geospatial-UI) (ISRO Bharatiya Antariksh Hackathon 2024) 🗺️<br>On-device Whisper speech recognition with a fault-tolerant intent parser, 91.7% intent accuracy · [Live](https://voice-enabled-geospatial-ui.netlify.app/)
+<h2> 🔭 &nbsp;Featured Projects</h2>
 
-🧰 **More Things I've Built**:
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/chandana-galgali/AI-Powered-Multi-Pollutant-Mapping-for-Hyperlocal-Air-Quality-Monitoring"><img src="./profile/cards/pollutant-map.png" width="100%" alt="🏆 Multi-Pollutant Mapping preview"/></a>
+<h3>🏆 Multi-Pollutant Mapping</h3>
+<sub><b>Climate Hackathon 2024 · 1st place + ₹1.5L grant</b></sub>
+<p>Downscales Sentinel-5P data for 6 pollutants from ~1 km to 10 m with a hybrid regression + CNN, validated against NASA airborne maps.</p>
+<a href="https://hyperlocal-air-quality.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-5eead4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0e14" alt="Live demo"></a> <a href="https://github.com/chandana-galgali/AI-Powered-Multi-Pollutant-Mapping-for-Hyperlocal-Air-Quality-Monitoring"><img src="https://img.shields.io/badge/Source-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e14" alt="Source code"></a>
+<br><br>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/chandana-galgali/Text-to-AR-VR-Visualizing-Numerical-Data"><img src="./profile/cards/text-to-ar-vr.png" width="100%" alt="🥽 Text-to-AR/VR preview"/></a>
+<h3>🥽 Text-to-AR/VR</h3>
+<sub><b>Pre-Final Year Capstone Project</b></sub>
+<p>Turns text descriptions of numbers into interactive AR/VR charts in Unity via an LLM + custom RAG pipeline, with 88.89% accuracy.</p>
+<img src="https://img.shields.io/badge/Demo-Coming_Soon-7d8ea3?style=for-the-badge&labelColor=0a0e14" alt="Demo coming soon"> <a href="https://github.com/chandana-galgali/Text-to-AR-VR-Visualizing-Numerical-Data"><img src="https://img.shields.io/badge/Source-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e14" alt="Source code"></a>
+<br><br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/chandana-galgali/Automated-Caption-Generation-using-Encoder-Decoder-Model-for-Jewellery-Images"><img src="./profile/cards/caption-generation.png" width="100%" alt="🖼️ Jewellery Caption Generation preview"/></a>
+<h3>🖼️ Jewellery Caption Generation</h3>
+<sub><b>Final Year Capstone Project</b></sub>
+<p>VGG-16 + attention GRU that classifies jewellery and writes descriptions: 98.64% accuracy and CIDEr-D 0.876, fully in the browser.</p>
+<a href="https://chandana-galgali.github.io/Automated-Caption-Generation-using-Encoder-Decoder-Model-for-Jewellery-Images/"><img src="https://img.shields.io/badge/Live_Demo-5eead4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0e14" alt="Live demo"></a> <a href="https://github.com/chandana-galgali/Automated-Caption-Generation-using-Encoder-Decoder-Model-for-Jewellery-Images"><img src="https://img.shields.io/badge/Source-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e14" alt="Source code"></a>
+<br><br>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/chandana-galgali/Voice-Enabled-Geospatial-UI"><img src="./profile/cards/voice-geospatial-ui.png" width="100%" alt="🗺️ Voice-Enabled Geospatial UI preview"/></a>
+<h3>🗺️ Voice-Enabled Geospatial UI</h3>
+<sub><b>ISRO Bharatiya Antariksh Hackathon 2024</b></sub>
+<p>Voice-controlled map app with on-device Whisper speech recognition and a fault-tolerant intent parser, at 91.7% intent accuracy.</p>
+<a href="https://voice-enabled-geospatial-ui.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-5eead4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0e14" alt="Live demo"></a> <a href="https://github.com/chandana-galgali/Voice-Enabled-Geospatial-UI"><img src="https://img.shields.io/badge/Source-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e14" alt="Source code"></a>
+<br><br>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🧰 More Things I've Built (13 projects)</b></summary>
 
 **AI & ML**
 * [ConsultLens](https://github.com/chandana-galgali/ConsultLens) (Health-a-thon 2026): multilingual workspace that turns scattered medical records into verified, source-linked patient journeys, with OCR and human-in-the-loop review 🩺 · [Live](https://consultlens.vercel.app/)
@@ -69,6 +116,8 @@ Hi there 👋 I just genuinely love engineering and building cool things! 🚀
 * [AuverGrid Workload Analysis](https://github.com/chandana-galgali/Analysis-of-the-GWA-T-4-AuverGrid-Workload): characterisation of 404k real grid-computing jobs 📊 · [Live](https://chandana-galgali.github.io/Analysis-of-the-GWA-T-4-AuverGrid-Workload/)
 * [KJSCE IT Reference Material](https://github.com/chandana-galgali/KJSCE-IT-Reference-Material): notes, lab code and write-ups from my B.Tech in IT (2022-2026) 📚
 
+</details>
+
 <br>
 
 💬 **You can talk to me about**: Software systems, AI applications, System architectures, F1 constructor strategies or even One Piece lore lol!<br>
@@ -77,6 +126,11 @@ Hi there 👋 I just genuinely love engineering and building cool things! 🚀
 --- 
   
 <h2> 🚀 &nbsp;Tools that I Have Used and Explored</h2>
+
+<details>
+<summary><b>Show all 64 tools</b></summary>
+<br>
+
 <table>
   <!-- Row 1: Core Languages -->
   <tr>
@@ -137,8 +191,8 @@ Hi there 👋 I just genuinely love engineering and building cool things! 🚀
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45"/><br/>SSMS</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" width="45"/><br/>Babel</td>
-    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpflF6khWBbnc2X_YGevp4WXD7ONrd5_dUd5Ox0gRHw&s=10" width="45"/><br/>QuickJS Engine</td>
-    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA-mCB1eODRUwv0rYBW5y--GWuFcv5Jv1CgPo9JEgGdQ&s=10" width="45"/><br/>Jelly Framework</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/26a1.svg" width="45"/><br/>QuickJS Engine</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f52c.svg" width="45"/><br/>Jelly Framework</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="45"/><br/>Unity</td>
     <td align="center"><img src="https://leafletjs.com/docs/images/logo.png" width="45"/><br/>Leaflet</td>
     <td align="center"><img src="https://www.google.com/s2/favicons?domain=earthengine.google.com&sz=64" width="45"/><br/>Earth Engine</td>
@@ -164,9 +218,11 @@ Hi there 👋 I just genuinely love engineering and building cool things! 🚀
     <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45"/><br/>Hugging Face</td>
     <td align="center"><img src="https://www.google.com/s2/favicons?domain=openstreetmap.org&sz=64" width="45"/><br/>OpenStreetMap</td>
     <td align="center"><img src="https://www.google.com/s2/favicons?domain=khronos.org&sz=64" width="45"/><br/>WebGL</td>
-    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhC-flprC1Q2ytNuUZL7szH8IeY-f4NfoOVS6jg3TmxQ&s=10" width="45"/><br/>RAG</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4da.svg" width="45"/><br/>RAG</td>
   </tr>
 </table>
+
+</details>
 
 ---
 
@@ -203,5 +259,5 @@ Hi there 👋 I just genuinely love engineering and building cool things! 🚀
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thank%20you!&height=300&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:0d9488,100:0a0e14&height=220&section=footer&text=Thank%20you!&fontColor=ffffff&fontSize=48&fontAlignY=65" alt="Thank you!"/>
 </p>
