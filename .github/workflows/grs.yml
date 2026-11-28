@@ -49,10 +49,20 @@ jobs:
           path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # shields.io cannot reliably read the GitHub API anonymously (it is rate-limited and shows "invalid"),
+      # so the workflow writes the public repo count to a small JSON file that the README badge reads.
+      - name: Update public repo count badge
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          count=$(gh api users/${{ github.repository_owner }} --jq .public_repos)
+          mkdir -p profile/badges
+          printf '{"schemaVersion":1,"label":"public repos","message":"%s","color":"5eead4","labelColor":"0a0e14","namedLogo":"github","logoColor":"white"}\n' "$count" > profile/badges/repos.json
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
+          git add profile/*.svg profile/badges/repos.json
           git commit -m "Update README cards" || exit 0
           git push

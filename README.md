@@ -240,7 +240,7 @@ Hi there 👋 I just genuinely love engineering and building cool things! 🚀
 </p>
 
 <p align="center">
-  <a href="https://github.com/chandana-galgali?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fchandana-galgali&query=%24.public_repos&label=public%20repos&style=for-the-badge&color=5eead4&labelColor=0a0e14&logo=github&logoColor=white" alt="Public repositories"></a>
+  <a href="https://github.com/chandana-galgali?tab=repositories"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fchandana-galgali%2Fchandana-galgali%2Fmain%2Fprofile%2Fbadges%2Frepos.json&style=for-the-badge" alt="Public repositories"></a>
   <a href="https://www.npmjs.com/package/react-ambient-light-adaptive-theme"><img src="https://img.shields.io/npm/dt/react-ambient-light-adaptive-theme?style=for-the-badge&label=npm%20downloads&color=a78bfa&labelColor=0a0e14&logo=npm&logoColor=white" alt="npm downloads"></a>
   <a href="https://chandana-galgali.github.io/"><img src="https://img.shields.io/badge/Portfolio-Live-5eead4?style=for-the-badge&labelColor=0a0e14&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
